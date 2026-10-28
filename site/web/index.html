@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas Loan Lab</title>
+<link rel="stylesheet" href="/web/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="app"></div>
+<script>
+/* Browser host: talks to site/serve.py. */
+window.AtlasHost = (() => {
+  let cb = () => {};
+  const get = (u) => fetch(u).then((r) => r.json());
+  const events = new EventSource('/events');
+  events.addEventListener('progress', (e) => cb(Object.assign({ type: 'progress' }, JSON.parse(e.data))));
+  events.addEventListener('running', (e) => cb(Object.assign({ type: 'running' }, JSON.parse(e.data))));
+  return {
+    caps: { terminal: false, diff: false },
+    post(m) {
+      if (m.type === 'ready') { Promise.all([get('/api/model'), get('/api/progress')]).then(([model, progress]) => cb({ type: 'init', model, progress })); return; }
+      fetch('/api/' + m.type, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(m) })
+        .then((r) => r.json())
+        .then((reply) => { if (m.type === 'open') cb(Object.assign({ type: 'opened' }, reply)); })
+        .catch(() => cb({ type: 'opened', error: 'The lab server is not running. Start it with python site/serve.py' }));
+    },
+    onMessage(f) { cb = f; },
+    load() { try { return JSON.parse(localStorage.getItem('atlas-lab') || 'null'); } catch (e) { return null; } },
+    save(o) { try { localStorage.setItem('atlas-lab', JSON.stringify(o)); } catch (e) { /* private mode */ } }
+  };
+})();
+</script>
+<script src="/web/app.js"></script>
+</body>
+</html>

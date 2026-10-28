@@ -105,3 +105,19 @@ runs/         generated output: traces, index, audit log, queues (safe to delete
 ```
 
 All people, companies, customers and figures in `data/` are fictional.
+
+## The lab UI (live progress)
+
+A guided UI renders `docs/LAB*.md` as lessons and updates by itself as your tests pass.
+
+```bash
+python site/serve.py      # then open http://127.0.0.1:8765
+```
+
+Nothing to install: it uses only the Python standard library and listens on your machine only (`127.0.0.1`).
+Keep the page open beside your editor and save any file: the tests re-run, progress updates, and finishing a lesson
+offers the next one. If the `code` command is on your PATH, clicking a file name opens it in VS Code.
+
+No browser? `python site/progress.py --print` writes `.atlas/progress.json` and prints a scoreboard.
+
+The Markdown guides stay the source of truth; the UI is generated from them (`site/labmodel.py`).
