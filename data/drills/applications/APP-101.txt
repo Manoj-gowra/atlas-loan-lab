@@ -1,0 +1,23 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-11-03   Pages: 9   OCR confidence: 97%
+
+PART 1 - APPLICATION
+Application ID: APP-101
+Submitted: 2026-11-03
+Business legal name: Brazos Valley Grain Co.
+Customer ID: B-1101
+Product: Agricultural equipment financing
+Jurisdiction: US-TX
+Amount requested: $450,000
+Requested term: 84 months
+Purpose: Replacement tractor and planter
+Years in business: 10
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $1,168,000
+EBITDA: $224,700
+Existing annual debt service: $90,000
+Collateral offered: equipment appraised at $600,000
+
+PART 3 - GUARANTOR
+Guarantor: (on file)

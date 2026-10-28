@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "atlas-bureau": {
+      "command": "python3",
+      "args": [
+        "-m",
+        "atlas.mcp_server",
+        "claude_code"
+      ]
+    },
+    "atlas-ops": {
+      "command": "python3",
+      "args": [
+        "-m",
+        "atlas.ops_mcp"
+      ]
+    }
+  }
+}

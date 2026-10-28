@@ -1,0 +1,62 @@
+{
+  "311920": {
+    "stress_index": 28,
+    "outlook": "stable",
+    "note": "Specialty coffee demand steady; green coffee prices elevated."
+  },
+  "484121": {
+    "stress_index": 55,
+    "outlook": "watch",
+    "note": "Freight rates recovering from 2024 trough."
+  },
+  "531120": {
+    "stress_index": 40,
+    "outlook": "stable",
+    "note": "Medical office vacancies low."
+  },
+  "332710": {
+    "stress_index": 33,
+    "outlook": "stable",
+    "note": "Reshoring demand supports machine shops."
+  },
+  "448190": {
+    "stress_index": 71,
+    "outlook": "negative",
+    "note": "Independent apparel retail under pressure."
+  },
+  "238210": {
+    "stress_index": 30,
+    "outlook": "stable",
+    "note": "Grid and EV-charger work keeps contractors busy."
+  },
+  "621210": {
+    "stress_index": 22,
+    "outlook": "stable",
+    "note": "Dental practices resilient."
+  },
+  "323111": {
+    "stress_index": 48,
+    "outlook": "watch",
+    "note": "Print volumes declining slowly; signage stable."
+  },
+  "111150": {
+    "stress_index": 78,
+    "outlook": "negative",
+    "note": "Drought and low grain prices are compressing farm margins in the Northeast and Plains."
+  },
+  "621340": {
+    "stress_index": 25,
+    "outlook": "stable",
+    "note": "Pediatric therapy demand growing."
+  },
+  "111331": {
+    "stress_index": 45,
+    "outlook": "watch",
+    "note": "Orchards face labour costs; prices firm."
+  },
+  "111920": {
+    "stress_index": 74,
+    "outlook": "negative",
+    "note": "Cotton prices weak; irrigation costs rising."
+  }
+}

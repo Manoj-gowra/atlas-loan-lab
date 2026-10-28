@@ -1,0 +1,28 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-10-01   Pages: 22   OCR confidence: 96%
+
+PART 1 - APPLICATION
+Application ID: APP-007
+Submitted: 2026-10-01
+Business legal name: Gulf Coast Dental Partners PLLC
+Customer ID: B-1007
+Product: Commercial real estate (owner-occupied clinic)
+Jurisdiction: US-TX
+Amount requested: $1,200,000
+Requested term: 300 months
+Purpose: Purchase owner-occupied clinic building, Houston
+Years in business: 6
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $2,200,000
+EBITDA: $380,000
+Existing annual debt service: $150,000
+Collateral offered: property appraised at $1,700,000
+
+PART 3 - GUARANTOR
+Guarantor: Aisha Bello (managing partner, 50%)
+SSN: 455-30-8862
+Date of birth: 1984-09-14
+Home address: 5402 Bissonnet St, Houston, TX 77081
+Email: aisha@gulfcoastdental.example
+Phone: (713) 555-0136

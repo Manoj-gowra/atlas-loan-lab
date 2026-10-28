@@ -1,0 +1,28 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-09-14   Pages: 11   OCR confidence: 98%
+
+PART 1 - APPLICATION
+Application ID: APP-001
+Submitted: 2026-09-14
+Business legal name: Bay Harbor Coffee Roasters Inc.
+Customer ID: B-1001
+Product: Commercial term loan
+Jurisdiction: US-CA
+Amount requested: $250,000
+Requested term: 60 months
+Purpose: Second roasting line and warehouse fit-out
+Years in business: 9
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $2,400,000
+EBITDA: $420,000
+Existing annual debt service: $95,000
+Collateral offered: business assets appraised at $400,000
+
+PART 3 - GUARANTOR
+Guarantor: Maya Lindqvist (owner, 100%)
+SSN: 512-48-7731
+Date of birth: 1981-03-22
+Home address: 1180 Harrison St, San Francisco, CA 94103
+Email: maya@bayharborcoffee.example
+Phone: (415) 555-0142

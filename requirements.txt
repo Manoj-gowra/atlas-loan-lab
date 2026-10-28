@@ -1,0 +1,4 @@
+pydantic>=2.7
+pytest>=8
+mcp>=2.2,<3        # MCP servers (Labs 3 and 7). Their tests are skipped if this is missing.
+anthropic>=0.40    # only needed when you switch to real Claude (ATLAS_MODE=anthropic)

@@ -1,0 +1,28 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-09-21   Pages: 24   OCR confidence: 97%
+
+PART 1 - APPLICATION
+Application ID: APP-003
+Submitted: 2026-09-21
+Business legal name: Hudson Clinic Properties LLC
+Customer ID: B-1003
+Product: Commercial real estate (purchase of medical office building)
+Jurisdiction: US-NY
+Amount requested: $2,400,000
+Requested term: 300 months
+Purpose: Purchase medical office building, Queens
+Years in business: 12
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $1,450,000
+EBITDA: $640,000
+Existing annual debt service: $40,000
+Collateral offered: property appraised at $3,500,000
+
+PART 3 - GUARANTOR
+Guarantor: Elena Sokolova (managing member, 55%)
+SSN: 301-77-2245
+Date of birth: 1974-12-02
+Home address: 41-12 Bell Blvd, Bayside, NY 11361
+Email: elena@hudsonclinicprops.example
+Phone: (718) 555-0163

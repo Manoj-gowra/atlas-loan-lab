@@ -1,0 +1,114 @@
+{
+  "B-1001": {
+    "score": 212,
+    "days_beyond_terms": 2,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 14
+  },
+  "B-1002": {
+    "score": 188,
+    "days_beyond_terms": 6,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 22
+  },
+  "B-1003": {
+    "score": 230,
+    "days_beyond_terms": 0,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 9
+  },
+  "B-1004": {
+    "score": 201,
+    "days_beyond_terms": 4,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 11
+  },
+  "B-1005": {
+    "score": 151,
+    "days_beyond_terms": 19,
+    "open_tax_liens": 1,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 4
+  },
+  "B-1006": {
+    "score": 176,
+    "days_beyond_terms": 5,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 16
+  },
+  "B-1007": {
+    "score": 158,
+    "days_beyond_terms": 11,
+    "open_tax_liens": 0,
+    "judgments": 1,
+    "bankruptcies": 0,
+    "trade_lines": 12
+  },
+  "B-1008": {
+    "score": 195,
+    "days_beyond_terms": 3,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 18
+  },
+  "B-1009": {
+    "score": 190,
+    "days_beyond_terms": 8,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 13
+  },
+  "B-1010": {
+    "score": 205,
+    "days_beyond_terms": 1,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 7
+  },
+  "B-1012": {
+    "score": 149,
+    "days_beyond_terms": 24,
+    "open_tax_liens": 1,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 5
+  },
+  "B-1101": {
+    "score": 200,
+    "days_beyond_terms": 3,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 10
+  },
+  "B-1102": {
+    "score": 214,
+    "days_beyond_terms": 1,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 12
+  },
+  "B-1103": {
+    "score": 181,
+    "days_beyond_terms": 7,
+    "open_tax_liens": 0,
+    "judgments": 0,
+    "bankruptcies": 0,
+    "trade_lines": 9
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "B-1001": [
+    {
+      "month": "2025-10",
+      "deposits": 205000,
+      "ending_balance": 160000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 209000,
+      "ending_balance": 172000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 202000,
+      "ending_balance": 151000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 207500,
+      "ending_balance": 167500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 200000,
+      "ending_balance": 145000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 208500,
+      "ending_balance": 170500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 206200,
+      "ending_balance": 163600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 202600,
+      "ending_balance": 152800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 210200,
+      "ending_balance": 175600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 204200,
+      "ending_balance": 157600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 207700,
+      "ending_balance": 168100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 203500,
+      "ending_balance": 155500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1002": [
+    {
+      "month": "2025-10",
+      "deposits": 262000,
+      "ending_balance": 90000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 266000,
+      "ending_balance": 102000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 259000,
+      "ending_balance": 81000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 264500,
+      "ending_balance": 97500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 257000,
+      "ending_balance": 75000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 265500,
+      "ending_balance": 100500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 263200,
+      "ending_balance": 93600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 259600,
+      "ending_balance": 82800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 267200,
+      "ending_balance": 105600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 261200,
+      "ending_balance": 87600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 264700,
+      "ending_balance": 98100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 260500,
+      "ending_balance": 85500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1003": [
+    {
+      "month": "2025-10",
+      "deposits": 124000,
+      "ending_balance": 310000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 128000,
+      "ending_balance": 322000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 121000,
+      "ending_balance": 301000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 126500,
+      "ending_balance": 317500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 119000,
+      "ending_balance": 295000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 127500,
+      "ending_balance": 320500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 125200,
+      "ending_balance": 313600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 121600,
+      "ending_balance": 302800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 129200,
+      "ending_balance": 325600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 123200,
+      "ending_balance": 307600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 126700,
+      "ending_balance": 318100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 122500,
+      "ending_balance": 305500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1004": [
+    {
+      "month": "2025-10",
+      "deposits": 110000,
+      "ending_balance": 52000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 114000,
+      "ending_balance": 64000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 107000,
+      "ending_balance": 43000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 112500,
+      "ending_balance": 59500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 105000,
+      "ending_balance": 37000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 113500,
+      "ending_balance": 62500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 111200,
+      "ending_balance": 55600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 107600,
+      "ending_balance": 44800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 115200,
+      "ending_balance": 67600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 109200,
+      "ending_balance": 49600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 112700,
+      "ending_balance": 60100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 108500,
+      "ending_balance": 47500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1005": [
+    {
+      "month": "2025-10",
+      "deposits": 50000,
+      "ending_balance": 6000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 54000,
+      "ending_balance": 18000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 47000,
+      "ending_balance": -3000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 52500,
+      "ending_balance": 13500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 45000,
+      "ending_balance": -9000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 53500,
+      "ending_balance": 16500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 51200,
+      "ending_balance": 9600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 47600,
+      "ending_balance": -1200,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 55200,
+      "ending_balance": 21600,
+      "nsf_count": 1
+    },
+    {
+      "month": "2026-07",
+      "deposits": 49200,
+      "ending_balance": 3600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 52700,
+      "ending_balance": 14100,
+      "nsf_count": 1
+    },
+    {
+      "month": "2026-09",
+      "deposits": 48500,
+      "ending_balance": 1500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1006": [
+    {
+      "month": "2025-10",
+      "deposits": 168000,
+      "ending_balance": 74000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 172000,
+      "ending_balance": 86000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 165000,
+      "ending_balance": 65000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 170500,
+      "ending_balance": 81500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 163000,
+      "ending_balance": 59000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 171500,
+      "ending_balance": 84500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 169200,
+      "ending_balance": 77600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 165600,
+      "ending_balance": 66800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 173200,
+      "ending_balance": 89600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 167200,
+      "ending_balance": 71600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 170700,
+      "ending_balance": 82100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 166500,
+      "ending_balance": 69500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1007": [
+    {
+      "month": "2025-10",
+      "deposits": 186000,
+      "ending_balance": 130000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 190000,
+      "ending_balance": 142000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 183000,
+      "ending_balance": 121000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 188500,
+      "ending_balance": 137500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 181000,
+      "ending_balance": 115000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 189500,
+      "ending_balance": 140500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 187200,
+      "ending_balance": 133600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 183600,
+      "ending_balance": 122800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 191200,
+      "ending_balance": 145600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 185200,
+      "ending_balance": 127600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 188700,
+      "ending_balance": 138100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 184500,
+      "ending_balance": 125500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1008": [
+    {
+      "month": "2025-10",
+      "deposits": 93000,
+      "ending_balance": 61000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 97000,
+      "ending_balance": 73000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 90000,
+      "ending_balance": 52000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 95500,
+      "ending_balance": 68500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 88000,
+      "ending_balance": 46000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 96500,
+      "ending_balance": 71500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 94200,
+      "ending_balance": 64600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 90600,
+      "ending_balance": 53800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 98200,
+      "ending_balance": 76600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 92200,
+      "ending_balance": 58600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 95700,
+      "ending_balance": 69100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 91500,
+      "ending_balance": 56500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1009": [
+    {
+      "month": "2025-10",
+      "deposits": 136000,
+      "ending_balance": 18000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 140000,
+      "ending_balance": 30000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 133000,
+      "ending_balance": 9000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 138500,
+      "ending_balance": 25500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 131000,
+      "ending_balance": 3000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 139500,
+      "ending_balance": 28500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 137200,
+      "ending_balance": 21600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 133600,
+      "ending_balance": 10800,
+      "nsf_count": 1
+    },
+    {
+      "month": "2026-06",
+      "deposits": 141200,
+      "ending_balance": 33600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 135200,
+      "ending_balance": 15600,
+      "nsf_count": 1
+    },
+    {
+      "month": "2026-08",
+      "deposits": 138700,
+      "ending_balance": 26100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 134500,
+      "ending_balance": 13500,
+      "nsf_count": 1
+    }
+  ],
+  "B-1010": [
+    {
+      "month": "2025-10",
+      "deposits": 96000,
+      "ending_balance": 88000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 100000,
+      "ending_balance": 100000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 93000,
+      "ending_balance": 79000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 98500,
+      "ending_balance": 95500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 91000,
+      "ending_balance": 73000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 99500,
+      "ending_balance": 98500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 97200,
+      "ending_balance": 91600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 93600,
+      "ending_balance": 80800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 101200,
+      "ending_balance": 103600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 95200,
+      "ending_balance": 85600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 98700,
+      "ending_balance": 96100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 94500,
+      "ending_balance": 83500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1101": [
+    {
+      "month": "2025-10",
+      "deposits": 98000,
+      "ending_balance": 70000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 102000,
+      "ending_balance": 82000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 95000,
+      "ending_balance": 61000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 100500,
+      "ending_balance": 77500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 93000,
+      "ending_balance": 55000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 101500,
+      "ending_balance": 80500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 99200,
+      "ending_balance": 73600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 95600,
+      "ending_balance": 62800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 103200,
+      "ending_balance": 85600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 97200,
+      "ending_balance": 67600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 100700,
+      "ending_balance": 78100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 96500,
+      "ending_balance": 65500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1102": [
+    {
+      "month": "2025-10",
+      "deposits": 76000,
+      "ending_balance": 64000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 80000,
+      "ending_balance": 76000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 73000,
+      "ending_balance": 55000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 78500,
+      "ending_balance": 71500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 71000,
+      "ending_balance": 49000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 79500,
+      "ending_balance": 74500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 77200,
+      "ending_balance": 67600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 73600,
+      "ending_balance": 56800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 81200,
+      "ending_balance": 79600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 75200,
+      "ending_balance": 61600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 78700,
+      "ending_balance": 72100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 74500,
+      "ending_balance": 59500,
+      "nsf_count": 0
+    }
+  ],
+  "B-1103": [
+    {
+      "month": "2025-10",
+      "deposits": 101000,
+      "ending_balance": 40000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-11",
+      "deposits": 105000,
+      "ending_balance": 52000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2025-12",
+      "deposits": 98000,
+      "ending_balance": 31000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-01",
+      "deposits": 103500,
+      "ending_balance": 47500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-02",
+      "deposits": 96000,
+      "ending_balance": 25000,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-03",
+      "deposits": 104500,
+      "ending_balance": 50500,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-04",
+      "deposits": 102200,
+      "ending_balance": 43600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-05",
+      "deposits": 98600,
+      "ending_balance": 32800,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-06",
+      "deposits": 106200,
+      "ending_balance": 55600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-07",
+      "deposits": 100200,
+      "ending_balance": 37600,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-08",
+      "deposits": 103700,
+      "ending_balance": 48100,
+      "nsf_count": 0
+    },
+    {
+      "month": "2026-09",
+      "deposits": 99500,
+      "ending_balance": 35500,
+      "nsf_count": 0
+    }
+  ]
+}

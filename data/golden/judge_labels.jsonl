@@ -1,0 +1,5 @@
+{"app_id": "APP-005", "human_pass": true, "note": "names all failed rules with sections"}
+{"app_id": "APP-006", "human_pass": true, "note": "clear on DSCR band"}
+{"app_id": "APP-007", "human_pass": true, "note": "score band explained"}
+{"app_id": "APP-009", "human_pass": false, "note": "does not tell the officer what to check next"}
+{"app_id": "APP-001", "human_pass": true, "note": "fine"}

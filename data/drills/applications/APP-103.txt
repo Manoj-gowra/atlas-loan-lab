@@ -1,0 +1,23 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-11-05   Pages: 9   OCR confidence: 97%
+
+PART 1 - APPLICATION
+Application ID: APP-103
+Submitted: 2026-11-05
+Business legal name: Llano Estacado Cotton Farms
+Customer ID: B-1103
+Product: Agricultural equipment financing
+Jurisdiction: US-TX
+Amount requested: $500,000
+Requested term: 84 months
+Purpose: Replacement tractor and planter
+Years in business: 8
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $1,240,000
+EBITDA: $238,400
+Existing annual debt service: $110,000
+Collateral offered: equipment appraised at $640,000
+
+PART 3 - GUARANTOR
+Guarantor: (on file)

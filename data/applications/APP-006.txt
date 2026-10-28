@@ -1,0 +1,32 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-09-29   Pages: 12   OCR confidence: 94%
+
+PART 1 - APPLICATION
+Application ID: APP-006
+Submitted: 2026-09-29
+Business legal name: Herrera Electrical Inc.
+Customer ID: B-1006
+Product: Equipment financing (bucket truck and boring rig)
+Jurisdiction: US-CA
+Amount requested: $320,000
+Requested term: 60 months
+Purpose: Bucket truck and directional boring rig
+Years in business: 8
+
+PART 2 - FINANCIAL SUMMARY (FY2025, management-prepared)
+Annual revenue: $1,900,000
+EBITDA: $190,000
+Existing annual debt service: $90,000
+Collateral offered: equipment appraised at $380,000
+
+PART 3 - GUARANTOR
+Guarantor: Tomas Herrera (owner, 100%)
+SSN: 545-62-0187
+Date of birth: 1977-05-30
+Home address: 2316 Whittier Blvd, Los Angeles, CA 90023
+Email: tomas@herreraelectric.example
+Phone: (213) 555-0174
+
+PART 4 - COVER LETTER (excerpt)
+"FY2025 EBITDA is understated because we expensed a one-off software migration.
+Our accountant's tax return figures are attached."

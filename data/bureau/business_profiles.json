@@ -1,0 +1,76 @@
+{
+  "B-1001": {
+    "naics": "311920",
+    "sector": "Coffee roasting",
+    "affiliates": []
+  },
+  "B-1002": {
+    "naics": "484121",
+    "sector": "Long-haul trucking",
+    "affiliates": []
+  },
+  "B-1003": {
+    "naics": "531120",
+    "sector": "Lessors of nonresidential buildings",
+    "affiliates": []
+  },
+  "B-1004": {
+    "naics": "332710",
+    "sector": "Machine shops",
+    "affiliates": []
+  },
+  "B-1005": {
+    "naics": "448190",
+    "sector": "Clothing stores",
+    "affiliates": []
+  },
+  "B-1006": {
+    "naics": "238210",
+    "sector": "Electrical contractors",
+    "affiliates": [
+      "B-1012"
+    ]
+  },
+  "B-1007": {
+    "naics": "621210",
+    "sector": "Offices of dentists",
+    "affiliates": []
+  },
+  "B-1008": {
+    "naics": "323111",
+    "sector": "Commercial printing",
+    "affiliates": []
+  },
+  "B-1009": {
+    "naics": "111150",
+    "sector": "Corn and grain farming",
+    "affiliates": []
+  },
+  "B-1010": {
+    "naics": "621340",
+    "sector": "Offices of physical and speech therapists",
+    "affiliates": []
+  },
+  "B-1012": {
+    "naics": "238210",
+    "sector": "Electrical contractors",
+    "affiliates": [
+      "B-1006"
+    ]
+  },
+  "B-1101": {
+    "naics": "111150",
+    "sector": "Corn and grain farming",
+    "affiliates": []
+  },
+  "B-1102": {
+    "naics": "111331",
+    "sector": "Apple orchards",
+    "affiliates": []
+  },
+  "B-1103": {
+    "naics": "111920",
+    "sector": "Cotton farming",
+    "affiliates": []
+  }
+}

@@ -1,0 +1,23 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-11-04   Pages: 9   OCR confidence: 97%
+
+PART 1 - APPLICATION
+Application ID: APP-102
+Submitted: 2026-11-04
+Business legal name: Finger Lakes Orchards LLC
+Customer ID: B-1102
+Product: Agricultural equipment financing
+Jurisdiction: US-NY
+Amount requested: $300,000
+Requested term: 84 months
+Purpose: Replacement tractor and planter
+Years in business: 20
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $899,000
+EBITDA: $172,800
+Existing annual debt service: $60,000
+Collateral offered: equipment appraised at $420,000
+
+PART 3 - GUARANTOR
+Guarantor: (on file)

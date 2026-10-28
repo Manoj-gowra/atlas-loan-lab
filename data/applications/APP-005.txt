@@ -1,0 +1,28 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-09-25   Pages: 8   OCR confidence: 95%
+
+PART 1 - APPLICATION
+Application ID: APP-005
+Submitted: 2026-09-25
+Business legal name: Grace Liu Studio LLC
+Customer ID: B-1005
+Product: Commercial term loan
+Jurisdiction: US-CA
+Amount requested: $400,000
+Requested term: 60 months
+Purpose: Open two retail locations
+Years in business: 1.5
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $610,000
+EBITDA: $95,000
+Existing annual debt service: $48,000
+Collateral offered: business assets appraised at $300,000
+
+PART 3 - GUARANTOR
+Guarantor: Grace Liu (owner, 100%)
+SSN: 623-19-4410
+Date of birth: 1993-02-17
+Home address: 88 Almaden Blvd Apt 12, San Jose, CA 95113
+Email: grace@graceliustudio.example
+Phone: (408) 555-0128

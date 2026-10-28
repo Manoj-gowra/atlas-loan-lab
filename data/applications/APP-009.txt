@@ -1,0 +1,28 @@
+ATLAS FINANCIAL - COMMERCIAL LENDING - LOAN APPLICATION PACKAGE
+Scanned: 2026-10-05   Pages: 10   OCR confidence: 97%
+
+PART 1 - APPLICATION
+Application ID: APP-009
+Submitted: 2026-10-05
+Business legal name: Kim Family Farms LLC
+Customer ID: B-1009
+Product: Agricultural equipment financing (combine harvester)
+Jurisdiction: US-NY
+Amount requested: $600,000
+Requested term: 84 months
+Purpose: Combine harvester and grain head
+Years in business: 15
+
+PART 2 - FINANCIAL SUMMARY (FY2025)
+Annual revenue: $1,600,000
+EBITDA: $330,000
+Existing annual debt service: $120,000
+Collateral offered: equipment appraised at $730,000
+
+PART 3 - GUARANTOR
+Guarantor: Hannah Kim (managing member, 50%)
+SSN: 078-44-5126
+Date of birth: 1971-08-11
+Home address: 912 County Route 22, Cambridge, NY 12816
+Email: hannah@kimfamilyfarms.example
+Phone: (518) 555-0191

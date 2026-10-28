@@ -1,0 +1,118 @@
+{
+  "B-1001": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 2390000,
+    "verified_ebitda": 416000,
+    "method": "business tax returns"
+  },
+  "B-1002": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 3080000,
+    "verified_ebitda": 604000,
+    "method": "business tax returns"
+  },
+  "B-1003": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1440000,
+    "verified_ebitda": 633000,
+    "method": "business tax returns"
+  },
+  "B-1004": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1290000,
+    "verified_ebitda": 238000,
+    "method": "business tax returns"
+  },
+  "B-1005": {
+    "tax_years": [
+      2025
+    ],
+    "verified_revenue": 598000,
+    "verified_ebitda": 81000,
+    "method": "one year of tax returns only"
+  },
+  "B-1006": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1915000,
+    "verified_ebitda": 236000,
+    "method": "business tax returns (software migration expense reclassified)"
+  },
+  "B-1007": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 2180000,
+    "verified_ebitda": 376000,
+    "method": "business tax returns"
+  },
+  "B-1008": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1090000,
+    "verified_ebitda": 257000,
+    "method": "business tax returns"
+  },
+  "B-1009": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1540000,
+    "verified_ebitda": 301000,
+    "method": "farm tax returns (Schedule F)"
+  },
+  "B-1010": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1130000,
+    "verified_ebitda": 247000,
+    "method": "business tax returns"
+  },
+  "B-1101": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1160000,
+    "verified_ebitda": 223000,
+    "method": "farm tax returns (Schedule F)"
+  },
+  "B-1102": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 905000,
+    "verified_ebitda": 174000,
+    "method": "farm tax returns (Schedule F)"
+  },
+  "B-1103": {
+    "tax_years": [
+      2024,
+      2025
+    ],
+    "verified_revenue": 1230000,
+    "verified_ebitda": 236000,
+    "method": "farm tax returns (Schedule F)"
+  }
+}

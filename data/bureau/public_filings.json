@@ -1,0 +1,40 @@
+{
+  "B-1005": [
+    {
+      "type": "tax lien",
+      "date": "2026-02-11",
+      "status": "open",
+      "amount": 12400
+    }
+  ],
+  "B-1006": [
+    {
+      "type": "UCC-1",
+      "date": "2023-05-02",
+      "status": "active",
+      "amount": null
+    }
+  ],
+  "B-1007": [
+    {
+      "type": "judgment",
+      "date": "2025-01-20",
+      "status": "satisfied",
+      "amount": 18300
+    },
+    {
+      "type": "UCC-1",
+      "date": "2024-08-14",
+      "status": "active",
+      "amount": null
+    }
+  ],
+  "B-1009": [
+    {
+      "type": "UCC-1",
+      "date": "2022-03-30",
+      "status": "active",
+      "amount": null
+    }
+  ]
+}

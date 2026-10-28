@@ -1,0 +1,51 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pytest *)",
+      "Bash(python -m pytest *)",
+      "Bash(python3 -m pytest *)",
+      "Bash(python scripts/*)",
+      "Bash(python3 scripts/*)",
+      "Edit(./atlas/**)",
+      "Edit(./prompts/**)",
+      "Edit(./docs/**)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Edit(./data/policies/**)",
+      "Edit(./atlas/rules.py)",
+      "Edit(./.claude/**)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./data/.fake/**)",
+      "Edit(./runs/**)",
+      "Bash(curl *)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/scripts/hooks/protect_files.py\""
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/scripts/hooks/check_syntax.py\""
+          }
+        ]
+      }
+    ]
+  }
+}
